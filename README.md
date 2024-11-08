@@ -11,7 +11,7 @@ Hard - 3 chances
 - Once user is out of chances , user can guess number again by restarting the game
 
 
-# Url to game -
-https://github.com/nitesniu2/numberGuessingGame.git
+# Url-
+https://roadmap.sh/projects/number-guessing-game
 
 
