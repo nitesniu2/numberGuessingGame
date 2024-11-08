@@ -7,13 +7,13 @@ const read = readline.createInterface({
 
 const difficultyLevels = {
     easy: 10,
-    medium: 7,
+    medium: 5,
     hard: 3
 }
 
 
 function startGame() {
-    read.question("Enter difficulty level (easy, medium, hard): ", (level) => {
+    read.question("Please select difficulty level \n Easy (10 chances) \n Medium (5 chances) Hard (3 chances)", (level) => {
         // In Node.JS below chances variable will be 'undefined' .
         //In Node.js falsy values are-
         //false
